@@ -1,0 +1,3 @@
+add_subdirectory(practice/QhttpDemo)
+
+add_subdirectory(homework/HandWrittingInput)
